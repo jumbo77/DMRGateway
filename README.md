@@ -38,14 +38,23 @@ The section of DMRGateway.ini would be different, as indicated below:
 
 [XLX Network]
 Enabled=1
+
 File=XLXHosts.txt
+
 #Local=3351
+
 Slot=2
+
 TG=6
+
 Base=64000
+
 Startup=313
+
 Relink=10
+
 Debug=0
+
 
 
 --------------------------------
