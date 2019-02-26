@@ -37,6 +37,7 @@ The radio programming discussed above (64000, 64001, 64002, .. and 65000, TG 6) 
 The section of DMRGateway.ini would be different, as indicated below:
 
 [XLX Network]
+
 Enabled=1
 
 File=XLXHosts.txt
